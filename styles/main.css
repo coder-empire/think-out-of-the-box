@@ -1,0 +1,46 @@
+.banner{
+    background-image: url("/images/banner/banner3.png");
+    width: 1600px;
+    height: 808px;
+}
+.banner-text{
+    display: flex;
+    justify-content: right;
+    position: absolute;
+    top: 216px;
+    left: 60%;
+    color: #FFFFFF;
+}
+button{
+    width: 160px;
+height: 64px;
+color:#005FAC;
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+
+
+
+}
+    
+    
+
+
+
+ /* .banner-title {
+    position: absolute;
+    top: 216px;
+    right: 30px;
+    color: #FFFFFF;
+    font-family: Work Sans;
+    font-size: 20px;
+    
+    p {
+font-size: 16px;
+font-weight: 400;
+
+    } */
+
+
+
