@@ -1,9 +1,10 @@
-.banner{
+.banner {
     background-image: url("/images/banner/banner3.png");
     width: 1600px;
     height: 808px;
 }
-.banner-text{
+
+.banner-text {
     display: flex;
     justify-content: right;
     position: absolute;
@@ -11,24 +12,41 @@
     left: 60%;
     color: #FFFFFF;
 }
-button{
+
+button {
     width: 160px;
-height: 64px;
-color:#005FAC;
-font-family: Work Sans;
-font-size: 20px;
-font-weight: 600;
-line-height: 23px;
-
-
-
+    height: 64px;
+    color: #005FAC;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
 }
+
+.about-me-text {
+    position: absolute;
+    top: 1200px;
+    left: 60%;
+    color:#151414;
     
+}
+
+.my-plan{
+    text-align: center;
+}
+
+.grad {
+    height: 300px;
+    width: 100%;
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+
+  }
+   .button-text{
+    margin: 10px;
     
+  }
 
-
-
- /* .banner-title {
+/* .banner-title {
     position: absolute;
     top: 216px;
     right: 30px;
@@ -41,6 +59,3 @@ font-size: 16px;
 font-weight: 400;
 
     } */
-
-
-
